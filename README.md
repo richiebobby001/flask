@@ -60,4 +60,4 @@ Short Description: A basic Flask to-do app.
 
 Tags: Flask, Python
 
-Languages: python
+Languages: HTML, CSS, Java script 
